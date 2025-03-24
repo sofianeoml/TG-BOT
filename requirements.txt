@@ -1,6 +1,6 @@
-pyTelegramBotAPI
-Flask
-twilio
-colorama
-pymongo
-requests
+pyTelegramBotAPI==4.14.0
+Flask==3.0.2
+twilio==9.0.4
+colorama==0.4.6
+pymongo==4.6.1
+requests==2.31.0
