@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+Flask
+twilio
+colorama
+pymongo
+requests
